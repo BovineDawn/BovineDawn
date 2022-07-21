@@ -1,6 +1,6 @@
 - Hi, I’m Justin
 - I’m interested in learning full stack web development
-- I’m currently learning C, Python, and Java
+- I’m currently learning Webdevelopment, C, Python, and Java
 
 <!---
 BovineDawn/BovineDawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
