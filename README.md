@@ -1,5 +1,5 @@
 - Hi, I’m Justin
-- I’m interested in learning full stack web development
+- I’m interested in learning software/web development
 - I’m currently learning Web development, C, Python, and Java
 
 <!---
